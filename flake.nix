@@ -1,5 +1,5 @@
 {
-  description = "A flake for kubectl";
+  description = "A flake for kubectl, kubectx and kubens";
 
   inputs.nixpkgs.url = github:NixOS/nixpkgs/nixos-20.09;
 
